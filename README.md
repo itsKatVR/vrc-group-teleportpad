@@ -3,7 +3,7 @@
     <div class="header">
         <p>
             <h1 style="display:inline;text-size:24px;"> Group Teleport Pad</h2>
-            <span style="float:right">Teleport your friends!.</span>
+            <span style="float:right">Teleport your friends!</span>
         </p>
     </div>
     <!-- build status badges here thanks -->
